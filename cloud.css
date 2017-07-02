@@ -1,0 +1,23 @@
+.td{
+width: 230;
+}
+.h1{
+color: red;
+}
+.table{
+background-color: yellow;
+}
+
+.hr{
+display: block;
+border-width: 3px;
+margin-left: auto;
+width: 1000;
+}
+.info{
+background-color: red;
+}
+
+.new{
+text-indent: 25px;
+}

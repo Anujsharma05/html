@@ -1,0 +1,20 @@
+
+.body{
+background-color: #25242C;
+}
+.heading{
+text-align: center;
+text-shadow: 2px 1px 2px;
+color: yellow;		
+}
+.login{
+color: #90C5A9
+}
+.legend{
+color: #39B1C6;
+text-shadow: 2px 1px 2px;
+}
+.fieldset{
+color: #1FD26A;
+}								
+
